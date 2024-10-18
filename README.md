@@ -21,3 +21,8 @@ The training data can be download from above dataset links. The training dataset
 The modcrop function is from the source code of: C. Dong, C. C. Loy, K. He, and X. Tang. Learning a deep convolutional network for image super-resolution. In European Conference on Computer Vision, pages 184¨C199. Springer, 2014.
 
 The learned mapping models as well as the decision tree for scaling factor 2 can be directly used for SR reconstruction. 
+
+
+Please refer to our following paper for algorithm details:
+
+Lepcha, Dawa Chyophel, Bhawna Goyal, Ayush Dogra, and Shui‐Hua Wang. "An efficient medical image super resolution based on piecewise linear regression strategy using domain transform filtering." Concurrency and Computation: Practice and Experience 34, no. 20 (2022): e6644. (https://doi.org/10.1002/cpe.6644)
