@@ -22,6 +22,7 @@ The modcrop function is from the source code of: C. Dong, C. C. Loy, K. He, and 
 
 The learned mapping models as well as the decision tree for scaling factor 2 can be directly used for SR reconstruction. 
 
+However, for demo purpose, we have presented results for scale factor 2 in given code. The results for scale factor 4 can be obtained by going through above given instructions. The quantitative results are compared using psnr & ssim for this study. 
 
 Please refer to our following paper for algorithm details:
 
