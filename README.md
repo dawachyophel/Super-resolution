@@ -6,7 +6,7 @@ Building the code:
 There is only a single mex/cpp file included in this package that can be build with the MATLAB function "mex". The steps are:
 mex -setup C++                                                                 
 mex SR_scale_Hadamard.cpp ("scale" is the upscaling factor,e.g. mex SR_2_Hadamard.cpp )
-We provide a pre-compiled file "SR_2_Hadamard.mexw64" for Windows 7 (64 bit).
+We provide a pre-compiled file "SR_2_Hadamard.mexw64" for Windows (64 bit).
 
 Using the code:
 The file "DC_demo.m" is the demo usage of the proposed algorithm. However the file contains one test image (MRI) c03_1.bmp. The remaining test images can be download from 
